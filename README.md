@@ -24,6 +24,8 @@ Before you begin, make sure your system meets the following requirements:
 
 ## Installation
 
+-- git clone
+https://github.com/prakash0512/Xenon-technical-task2.git
 
 
 
